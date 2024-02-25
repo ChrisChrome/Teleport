@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist folder_path="data/missions/Teleport" file_store="4" name="Teleport">
+	<locations location_id_counter="21" component_id_counter="25">
+		<locations>
+			<l id="1" tile="data/tiles/island_43_multiplayer_base.xml" name="MULTIPLAYER ISLAND BASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="1" cargo_zone_import_cargo_type="type=teleport,1,spawn,mpisland,multiplayer" display_name="1 - MP Island hangar" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-103.239029" 31="16" 32="107.461342"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="2" cargo_zone_import_cargo_type="type=teleport,2,dock,mpdock,docks" display_name="2 - MP Island dock" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="387.69754" 31="9" 32="-151.720993"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="2" tile="data/tiles/island12.xml" name="STARTER BASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="7" cargo_zone_import_cargo_type="type=teleport,3,starterdock,starter,start" display_name="3 - Starter island dock" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-27.641424" 31="5" 32="16.940157"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="3" tile="data/tiles/island_15.xml" name="CREATIVE BASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="9" cargo_zone_import_cargo_type="type=teleport,4,creative,creativeisland" display_name="4 - Creative island" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-246.669861" 31="6" 32="77.208542"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="6" tile="data/tiles/island_34_military.xml" name="MILITARY BASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="10" cargo_zone_import_cargo_type="type=teleport,5,military,milstrip,mil" display_name="5 - Military airstrip" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="84.145142" 31="24" 32="-13.230098"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="7" tile="data/tiles/island_33_tile_32.xml" name="TERMINAL SPYCAKES" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="11" cargo_zone_import_cargo_type="type=teleport,6,spycakes,terminalspycakes" display_name="6 - Terminal Spycakes" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-0.162833" 31="39" 32="356.484406"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="8" tile="data/tiles/island_33_tile_end.xml" name="TERMINAL CAMODO" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="12" cargo_zone_import_cargo_type="type=teleport,7,camodo,terminalcamodo" display_name="7 - Terminal Camodo" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="65.084381" 31="17" 32="76.003571"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="9" tile="data/tiles/arctic_island_playerbase.xml" name="ARCTIC ISLAND BASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="13" cargo_zone_import_cargo_type="type=teleport,8,arctic,arcticairbase,arcticairstrip" display_name="8 - Arctic airstrip" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-106.111649" 31="27" 32="233.581985"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="10" tile="data/tiles/mega_island_12_6.xml" name="O'NEILL AIRBASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="14" cargo_zone_import_cargo_type="type=teleport,9,oneill" display_name="9 - O'Neill Airstrip" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="113.765121" 31="12" 32="73.50766"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="11" tile="data/tiles/mega_island_2_6.xml" name="HARRISON AIRBASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="15" cargo_zone_import_cargo_type="type=teleport,10,harrison" display_name="10 - Harrison Airstrip" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="79.069595" 31="17" 32="-106.927673"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="12" tile="data/tiles/mega_island_15_2.xml" name="SAWYER ISLANDS' SOUTH-EAST FISHING VILLAGE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="16" cargo_zone_import_cargo_type="type=teleport,11,south,southdock,southsawyer" display_name="11 - South Sawyer dock" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="168.794846" 31="9" 32="-396.277405"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="13" tile="data/tiles/mega_island_9_8.xml" name="SAWYER ISLANDS' NORTH HARBOUR" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="17" cargo_zone_import_cargo_type="type=teleport,12,north,northharbor,northsawyer" display_name="12 - North Sawyer docks" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="210.223877" 31="9" 32="257.197937"/>
+						<spawn_bounds>
+							<min x="-0.5" y="-0.5" z="-0.5"/>
+							<max x="0.5" y="0.5" z="0.5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="14" tile="data/tiles/arctic_island_playerbase.xml" name="ARCTIC ISLAND BASE" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="18" cargo_zone_import_cargo_type="type=teleport,13,arctic" display_name="13 - Arctic Hangar" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-137.798752" 31="25.18034" 32="256.253601"/>
+						<spawn_bounds>
+							<min x="-0.729012" y="-0.698393" z="-0.754614"/>
+							<max x="0.729012" y="0.698393" z="0.754614"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="15" tile="data/tiles/arid_island_5_14.xml" name="ARID_ISLAND_5_14" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="19" cargo_zone_import_cargo_type="type=teleport,14,meier,northmeier" display_name="14 - North Meier" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-313.871918" 31="3.575103" 32="-391.844849"/>
+						<spawn_bounds>
+							<min x="-0.533154" y="-0.483055" z="-0.427357"/>
+							<max x="0.533154" y="0.483055" z="0.427357"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="16" tile="data/tiles/arid_island_7_5.xml" name="ENDER AIRFIELD" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="20" cargo_zone_import_cargo_type="type=teleport,15,ender,enderair,enderairfield" display_name="15 - Ender Airfield" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="45.697556" 31="177.408783" 32="-106.784462"/>
+						<spawn_bounds>
+							<min x="-0.609266" y="-0.683691" z="-0.692545"/>
+							<max x="0.609266" y="0.683691" z="0.692545"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="18" tile="data/tiles/arid_island_8_15.xml" name="URAN WIND POWER PLANT DOCKS" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="21" cargo_zone_import_cargo_type="type=teleport,16,uran,uranpower,uranwind" display_name="16 - Uran Wind Power Plant" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="198.575195" 31="10.195519" 32="-240.78096"/>
+						<spawn_bounds>
+							<min x="-0.716156" y="-0.719257" z="-0.735637"/>
+							<max x="0.716156" y="0.719257" z="0.735637"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="19" tile="data/tiles/arid_island_19_11.xml" name="CLARKE AIRFIELD" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="22" cargo_zone_import_cargo_type="type=teleport,17,clarke,clarkeairfield,arid" display_name="17 - Clarke Airfield" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="86.530792" 31="21.512459" 32="123.362877"/>
+						<spawn_bounds>
+							<min x="-0.753044" y="-0.869765" z="-0.876645"/>
+							<max x="0.753044" y="0.869765" z="0.876645"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="20" tile="data/tiles/arid_island_26_14.xml" name="FJ WARNER DOCKS" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="23" cargo_zone_import_cargo_type="type=teleport,18,fj,fjwarner,warnerdock,warner" display_name="18 - FJ Warner Docks" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="-183.982666" 31="13.6347" 32="106.968719"/>
+						<spawn_bounds>
+							<min x="-5" y="-5" z="-5"/>
+							<max x="5" y="5" z="5"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+					<c component_type="10" id="24" cargo_zone_import_cargo_type="type=teleport,19,fjtrain,traindock" display_name="19 - FJ Warner Train Dock" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="269.798737" 31="10.722572" 32="-39.982311"/>
+						<spawn_bounds>
+							<min x="-0.236697" y="-0.203416" z="-0.225115"/>
+							<max x="0.236697" y="0.203416" z="0.225115"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+			<l id="21" tile="data/tiles/moon_surface_0_0.xml" name="MOON 0_0" is_env_mod="true" env_mod_spawn_num="1">
+				<components>
+					<c component_type="10" id="25" cargo_zone_import_cargo_type="type=teleport,19,moon" display_name="19 - The fucking moon" dynamic_object_type="2" character_outfit_category="11" character_type="1" vehicle_file_store="1">
+						<spawn_transform 30="0.068525" 31="-7.701665" 32="-0.399922"/>
+						<spawn_bounds>
+							<min x="-0.513327" y="-0.552756" z="-0.540048"/>
+							<max x="0.513327" y="0.552756" z="0.540048"/>
+						</spawn_bounds>
+						<graph_links/>
+					</c>
+				</components>
+			</l>
+		</locations>
+	</locations>
+</playlist>
+
